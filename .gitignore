@@ -6,3 +6,6 @@
 **/data/*/
 # unprotected zip files anywhere in the project directory and subfolders
 **/*.zip
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
