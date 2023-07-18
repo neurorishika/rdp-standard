@@ -1,4 +1,4 @@
-# RDP: Rishika's Data Protection for Python
+# RDP: Rishika's Data Protection Standard for Python
 
 This is a collection of general purpose data protection scripts for Python used by [Rishika Mohanta](https://neurorishika.github.io) for protecting data in her research. It is based on AES-128 (Fernet) encryption and decryption. It is a wrapper around the [cryptography](https://cryptography.io/en/latest/) library.
 
